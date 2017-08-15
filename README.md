@@ -84,3 +84,7 @@ You will be responsible for building both the back-end RESTful API using NodeJS 
   * Relational Database Service (RDS)
     * http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.html
     * http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/TUT_WebAppWithRDS.html
+* #### Firebase
+  * https://firebase.google.com/docs/hosting/deploying
+* #### Digital Ocean
+  * https://www.digitalocean.com/help/getting-started/setting-up-your-server/

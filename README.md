@@ -6,13 +6,7 @@ The Overdrive challenge is an opportunity for prospective developers to show off
 * Server: NodeJS, ExpressJS
 * Data-Tier: MySQL (Sequelize library)
 * Front end: React
-
-## Deployment
-This app can be deployed on any of the below options
-* Heroku
-* AWS (_Bonus points here_)
-* Firebase
-* Digital Ocean
+* Deployment: Amazon Web Services
 
 ### Project Overview
 You will be responsible for building a product profitability calculator.
@@ -75,16 +69,9 @@ You will be responsible for building both the back-end RESTful API using NodeJS 
 * #### Axios
   * https://wwww.npmjs.com/package/axios
 
-### Deployment
-* #### Heroku
-  * https://www.heroku.com/
-* #### Amazon Web Services (AWS)
-  * Elastic Cloud Compute (EC2)
-    * http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html
-  * Relational Database Service (RDS)
-    * http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.html
-    * http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/TUT_WebAppWithRDS.html
-* #### Firebase
-  * https://firebase.google.com/docs/hosting/deploying
-* #### Digital Ocean
-  * https://www.digitalocean.com/help/getting-started/setting-up-your-server/
+#### Amazon Web Services (AWS)
+* Elastic Cloud Compute (EC2)
+  * http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html
+* Relational Database Service (RDS)
+  * http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.html
+  * http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/TUT_WebAppWithRDS.html
